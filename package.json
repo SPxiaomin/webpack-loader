@@ -1,0 +1,14 @@
+{
+  "name": "webpack-loader",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/SPxiaomin/webpack-loader.git",
+  "author": "gujunmin <3013366498@qq.com>",
+  "license": "MIT",
+  "devDependencies": {
+    "loader-runner": "^4.1.0"
+  },
+  "dependencies": {
+    "loader-utils": "^2.0.0"
+  }
+}
